@@ -1,0 +1,2 @@
+# singlepageapplication
+this is the school project. not business project
